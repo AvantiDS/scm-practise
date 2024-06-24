@@ -14,4 +14,9 @@ public class TestClass {
         System.out.println("Test Class Method 1");
     }
 
+    @Test
+    public void testClassMethod2(){
+        System.out.println("Test Class Method 2");
+    }
+
 }
